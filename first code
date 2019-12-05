@@ -1,3 +1,9 @@
 //This is our fist code in Arduino
 // setup() function setups Arduino
+void setup(){
+
+}
 // loop() function makes Arduino work all the time
+void loop(){
+
+}
